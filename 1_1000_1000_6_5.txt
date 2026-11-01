@@ -1,0 +1,29 @@
+Q: 2
+T: 100
+VehicleUseCost: 1000
+VehicleDistanceCost: 1
+CrewUseCost: 1000
+CrewDistanceCost: 1
+MaxDrivingTime: 30
+
+       L       X       Y
+      LS       0       0
+      LE       0       0
+      L1      -5      -1
+      L2      -7      -7
+      L3      -3     -11
+      L4       2      -8
+      L5      10      10
+      L6       8      -6
+
+       R       L       A       B       S       Q
+      P1      L1       6      34       3       2
+      P2      L2      12      32       3       1
+      P3      L2      10      36       3       1
+      P4      L3      33      43       4       1
+      P5      L5      15      25       3       1
+      D1      L2      16      24       3      -2
+      D2      L3      21      36       3      -1
+      D3      L4      40      60       3      -1
+      D4      L4      43      53       4      -1
+      D5      L4      38      44       2      -1
