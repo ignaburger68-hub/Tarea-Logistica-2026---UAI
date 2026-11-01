@@ -3,6 +3,7 @@
 ## Integrantes:
 - Francisco Correa
 - Florencia Salazar
+- Mao
 
 ## Requisitos
 
