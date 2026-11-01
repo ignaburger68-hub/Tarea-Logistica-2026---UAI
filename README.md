@@ -1,5 +1,8 @@
 # JVCRSP: MAHH con Thompson sampling
 
+## Integrantes:
+- Francisco Correa
+- Florencia Salazar
 
 ## Requisitos
 
