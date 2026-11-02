@@ -1,9 +1,9 @@
 # JVCRSP: MAHH con Thompson sampling
 
 ## Integrantes:
+- Ignacio Chandia 🍉
 - Francisco Correa 🐈
-- Florencia Salazar
-- Ignacio Chandia
+- Florencia Salazar 🌸
 
 
 ## Requisitos
